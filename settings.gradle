@@ -1,0 +1,2 @@
+include ':app', ':demo02', ':demo3', ':demo4'
+rootProject.name='AndroidDevelopDemo3'
